@@ -20,3 +20,4 @@ C:\Users\yyevp\OneDrive\Desktop\semestertwo\TetrisMain\tetris1\obj\Debug\net8.0\
 C:\Users\yyevp\OneDrive\Desktop\semestertwo\TetrisMain\tetris1\obj\Debug\net8.0\Tetris.pdb
 C:\Users\yyevp\OneDrive\Desktop\semestertwo\TetrisMain\tetris1\obj\Debug\net8.0\Tetris.genruntimeconfig.cache
 C:\Users\yyevp\OneDrive\Desktop\semestertwo\TetrisMain\tetris1\obj\Debug\net8.0\ref\Tetris.dll
+C:\Users\yyevp\OneDrive\Desktop\semestertwo\TetrisMain\tetris1\obj\Debug\net8.0\Tetris.sourcelink.json
